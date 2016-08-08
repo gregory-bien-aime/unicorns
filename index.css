@@ -1,15 +1,28 @@
-#leftbox{
+#firstbox{
 	float:left;
-	width:250px;
-	height: 250px;
+	width:500px;
+	height:500px;
 	margin:5px;
 	border:3px solid blue;
+	background-image: url('https://s-media-cache-ak0.pinimg.com/236x/29/0e/a0/290ea051b531a128b2064dc3e0a85d26.jpg');
+	background-size: cover;
 }
-#rightbox{
+#secondbox{
 	float:left;
-	width:250px;
-	height:250px;
+	width:500px;
+	height:500px;
 	margin:5px;
 	border:3px solid green;
+	background-image: url('http://onpasture.com/wp-content/uploads/2014/07/Well-Managed-N-New-York-Pasture.png');
+	background-size: cover;
+}
+#thirdbox{
+	float:left;
+	width:500px;
+	height:500px;
+	margin:5px;
+	border:3px solid red;
+	background-image: url('http://vignette1.wikia.nocookie.net/hayday/images/9/9b/Donkey_Stable.png/revision/latest?cb=20150713111214');
+	background-size: cover;
 
 }
